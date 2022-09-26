@@ -45,3 +45,9 @@ void MainWindow::on_pushButton_5_clicked()
     QMessageBox::question(this, "CFB_Cursos", "Você está gostando do curso?");
 }
 
+
+void MainWindow::on_pushButton_6_clicked()
+{
+    QMessageBox::warning(this, "CBF_Crusos", "Erro do tipo warning");
+}
+

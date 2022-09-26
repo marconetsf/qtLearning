@@ -31,6 +31,7 @@ public:
     QPushButton *pushButton_3;
     QPushButton *pushButton_4;
     QPushButton *pushButton_5;
+    QPushButton *pushButton_6;
     QMenuBar *menubar;
     QStatusBar *statusbar;
 
@@ -43,7 +44,7 @@ public:
         centralwidget->setObjectName(QString::fromUtf8("centralwidget"));
         widget = new QWidget(centralwidget);
         widget->setObjectName(QString::fromUtf8("widget"));
-        widget->setGeometry(QRect(110, 90, 581, 175));
+        widget->setGeometry(QRect(110, 90, 581, 211));
         verticalLayout = new QVBoxLayout(widget);
         verticalLayout->setObjectName(QString::fromUtf8("verticalLayout"));
         verticalLayout->setContentsMargins(0, 0, 0, 0);
@@ -72,6 +73,11 @@ public:
 
         verticalLayout->addWidget(pushButton_5);
 
+        pushButton_6 = new QPushButton(widget);
+        pushButton_6->setObjectName(QString::fromUtf8("pushButton_6"));
+
+        verticalLayout->addWidget(pushButton_6);
+
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName(QString::fromUtf8("menubar"));
@@ -94,6 +100,7 @@ public:
         pushButton_3->setText(QCoreApplication::translate("MainWindow", "Cx_Mess_AboutQT", nullptr));
         pushButton_4->setText(QCoreApplication::translate("MainWindow", "Cx_Mess_info", nullptr));
         pushButton_5->setText(QCoreApplication::translate("MainWindow", "Cx_Mess_Question", nullptr));
+        pushButton_6->setText(QCoreApplication::translate("MainWindow", "Cx_Mess_Warning", nullptr));
     } // retranslateUi
 
 };
