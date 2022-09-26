@@ -1,0 +1,9 @@
+# ninja log v5
+3	1778	6859311273588953	aula_06_autogen/timestamp	9f9b571d3ed0c628
+3	1778	6859311273588953	aula_06_autogen/mocs_compilation.cpp	9f9b571d3ed0c628
+3	1778	6859311273588953	C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_06-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/aula_06_autogen/timestamp	9f9b571d3ed0c628
+3	1778	6859311273588953	C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_06-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/aula_06_autogen/mocs_compilation.cpp	9f9b571d3ed0c628
+1779	5355	6859311311921292	CMakeFiles/aula_06.dir/aula_06_autogen/mocs_compilation.cpp.obj	959e24dc9e651b1f
+1790	5377	6859311312107676	CMakeFiles/aula_06.dir/main.cpp.obj	d206380895263dc6
+1784	5524	6859311313581282	CMakeFiles/aula_06.dir/mainwindow.cpp.obj	b3430ed0fa256871
+5525	5939	6859311317616090	aula_06.exe	a9644b16c8bdf45e
