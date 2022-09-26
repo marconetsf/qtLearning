@@ -1,6 +1,7 @@
 #include "mainwindow.h"
 #include "./ui_mainwindow.h"
-#include "QMessageBox.h"
+#include <QMessageBox>
+#include <QtDebug>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -42,7 +43,16 @@ void MainWindow::on_pushButton_4_clicked()
 
 void MainWindow::on_pushButton_5_clicked()
 {
-    QMessageBox::question(this, "CFB_Cursos", "Você está gostando do curso?");
+    QMessageBox::StandardButton resposta;
+    resposta = (QMessageBox::question(this, "", "Você está gostando do curso?", QMessageBox::Yes|QMessageBox::No));
+
+    if (resposta == QMessageBox::Yes)
+    {
+        QApplication::quit();
+    }else {
+//        QMessageBox::about(this, "CFB_Cursos", "O programa não foi fechado");
+        qDebug() << "Programa não foi fechado";
+    }
 }
 
 
