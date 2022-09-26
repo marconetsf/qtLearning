@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9f291f8f7d8140bbca88.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "aula_03",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "aula_03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aula_03-Debug-6deb36e187a051202f5c.json",
+					"name" : "aula_03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aula_03_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aula_03_autogen-Debug-144bd35763e215ffe204.json",
+					"name" : "aula_03_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aula_03_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aula_03_autogen_timestamp_deps-Debug-d55a2fc7e6761e461cba.json",
+					"name" : "aula_03_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_03-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/marco/OneDrive/Documentos/curso_qt/aula_03"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
