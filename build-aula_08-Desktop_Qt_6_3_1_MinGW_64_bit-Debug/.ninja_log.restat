@@ -1,0 +1,9 @@
+# ninja log v5
+32	583	6859866245375183	aula_08_autogen/timestamp	fa45cba1e709af3b
+32	583	6859866245375183	aula_08_autogen/mocs_compilation.cpp	fa45cba1e709af3b
+2	522	6859866252985627	build.ninja	305e12d73fa5d4ae
+32	583	6859866245375183	C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_08-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/aula_08_autogen/timestamp	fa45cba1e709af3b
+32	583	6859866245375183	C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_08-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/aula_08_autogen/mocs_compilation.cpp	fa45cba1e709af3b
+1024	3541	6859865588811744	CMakeFiles/aula_08.dir/main.cpp.obj	7d6da62d1660ef3a
+1017	4257	6859865595966621	CMakeFiles/aula_08.dir/aula_08_autogen/mocs_compilation.cpp.obj	47968f0b9c047b7
+1021	3641	6859865589821693	CMakeFiles/aula_08.dir/mainwindow.cpp.obj	518b70ea6925d424

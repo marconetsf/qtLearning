@@ -1,0 +1,26 @@
+# ninja log v5
+2	1016	6859865561692491	aula_08_autogen/timestamp	fa45cba1e709af3b
+2	1016	6859865561692491	aula_08_autogen/mocs_compilation.cpp	fa45cba1e709af3b
+2	1016	6859865561692491	C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_08-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/aula_08_autogen/timestamp	fa45cba1e709af3b
+2	1016	6859865561692491	C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_08-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/aula_08_autogen/mocs_compilation.cpp	fa45cba1e709af3b
+1017	4257	6859865595966621	CMakeFiles/aula_08.dir/aula_08_autogen/mocs_compilation.cpp.obj	47968f0b9c047b7
+1024	3541	6859865588811744	CMakeFiles/aula_08.dir/main.cpp.obj	7d6da62d1660ef3a
+1021	3641	6859865589821693	CMakeFiles/aula_08.dir/mainwindow.cpp.obj	518b70ea6925d424
+2	522	6859866239744845	build.ninja	305e12d73fa5d4ae
+32	583	6859866245375183	aula_08_autogen/timestamp	fa45cba1e709af3b
+32	583	6859866245375183	aula_08_autogen/mocs_compilation.cpp	fa45cba1e709af3b
+32	583	6859866245375183	C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_08-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/aula_08_autogen/timestamp	fa45cba1e709af3b
+32	583	6859866245375183	C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_08-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/aula_08_autogen/mocs_compilation.cpp	fa45cba1e709af3b
+583	3643	6859866276456280	CMakeFiles/aula_08.dir/aula_08_autogen/mocs_compilation.cpp.obj	47968f0b9c047b7
+589	3693	6859866277356239	CMakeFiles/aula_08.dir/janela2.cpp.obj	2f6c7e2b28cbfe7e
+586	3823	6859866278726238	CMakeFiles/aula_08.dir/mainwindow.cpp.obj	518b70ea6925d424
+3824	4185	6859866281952246	aula_08.exe	776a2691ea096e8f
+7	744	6859868038157749	aula_08_autogen/timestamp	fa45cba1e709af3b
+7	744	6859868038157749	aula_08_autogen/mocs_compilation.cpp	fa45cba1e709af3b
+7	744	6859868038157749	C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_08-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/aula_08_autogen/timestamp	fa45cba1e709af3b
+7	744	6859868038157749	C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_08-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/aula_08_autogen/mocs_compilation.cpp	fa45cba1e709af3b
+745	3268	6859868065705350	CMakeFiles/aula_08.dir/main.cpp.obj	7d6da62d1660ef3a
+748	3276	6859868065755352	CMakeFiles/aula_08.dir/aula_08_autogen/mocs_compilation.cpp.obj	47968f0b9c047b7
+755	3299	6859868066025308	CMakeFiles/aula_08.dir/mainwindow.cpp.obj	518b70ea6925d424
+751	3320	6859868066245336	CMakeFiles/aula_08.dir/janela2.cpp.obj	2f6c7e2b28cbfe7e
+3321	3527	6859868068265321	aula_08.exe	776a2691ea096e8f
