@@ -1,0 +1,9 @@
+C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_09-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/aula_09.dir
+C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_09-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_09-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_09-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_09-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_09-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_09-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_09-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/aula_09_autogen_timestamp_deps.dir
+C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_09-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/aula_09_autogen.dir
