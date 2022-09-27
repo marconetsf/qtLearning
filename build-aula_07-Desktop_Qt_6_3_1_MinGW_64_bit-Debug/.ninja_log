@@ -1,0 +1,21 @@
+# ninja log v5
+14	6581	6859857186462642	aula_07_autogen/timestamp	bd0d121b17578d71
+14	6581	6859857186462642	aula_07_autogen/mocs_compilation.cpp	bd0d121b17578d71
+14	6581	6859857186462642	C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_07-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/aula_07_autogen/timestamp	bd0d121b17578d71
+14	6581	6859857186462642	C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_07-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/aula_07_autogen/mocs_compilation.cpp	bd0d121b17578d71
+6585	9114	6859857214150303	CMakeFiles/aula_07.dir/main.cpp.obj	4cf3f515aabb06e2
+6582	9119	6859857214150303	CMakeFiles/aula_07.dir/aula_07_autogen/mocs_compilation.cpp.obj	3289497865a779c8
+6587	9856	6859857221583573	CMakeFiles/aula_07.dir/mainwindow.cpp.obj	1735961702c4926c
+9856	11954	6859857242538803	aula_07.exe	6a31ff4d5b060152
+5	248	6859858486346167	aula_07_autogen/timestamp	bd0d121b17578d71
+5	248	6859858486346167	aula_07_autogen/mocs_compilation.cpp	bd0d121b17578d71
+5	248	6859858486346167	C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_07-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/aula_07_autogen/timestamp	bd0d121b17578d71
+5	248	6859858486346167	C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_07-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/aula_07_autogen/mocs_compilation.cpp	bd0d121b17578d71
+251	2493	6859858508789341	CMakeFiles/aula_07.dir/mainwindow.cpp.obj	1735961702c4926c
+2494	2699	6859858510802547	aula_07.exe	6a31ff4d5b060152
+5	230	6859858856178554	aula_07_autogen/timestamp	bd0d121b17578d71
+5	230	6859858856178554	aula_07_autogen/mocs_compilation.cpp	bd0d121b17578d71
+5	230	6859858856178554	C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_07-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/aula_07_autogen/timestamp	bd0d121b17578d71
+5	230	6859858856178554	C:/Users/marco/OneDrive/Documentos/curso_qt/build-aula_07-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/aula_07_autogen/mocs_compilation.cpp	bd0d121b17578d71
+233	2252	6859858876401062	CMakeFiles/aula_07.dir/mainwindow.cpp.obj	1735961702c4926c
+2253	2427	6859858878090776	aula_07.exe	6a31ff4d5b060152
